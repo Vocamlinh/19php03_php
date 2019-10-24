@@ -1,7 +1,7 @@
-<h2>bai2</h2>
+<h2>bai3</h2>
 <?php
 	echo "Ten:";
-	$name='linh';
+	$Fullname='linh';
 	echo $name;
 	echo"<br>";
 	echo"So dien thoai:";
@@ -9,7 +9,7 @@
 	echo $phone;
 	echo"<br>";
 	echo"Que Quan:";
-	$add='Quang Nam';
+	$address='Quang Nam';
 	echo $add;
 	echo"<br>";
 ?>
